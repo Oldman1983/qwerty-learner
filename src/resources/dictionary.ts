@@ -4,6 +4,15 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    "id": "guangzhouchuzhong_1",
+    "name": "七年级上",
+    "description": "广州版七年级上册",
+    "category": "英语学习",
+    "url": "/dicts/GuangZhouChuZhong_1.json",
+    "length": 44,
+    "language": "en",
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
